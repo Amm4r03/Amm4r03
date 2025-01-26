@@ -21,6 +21,7 @@ feel free reach out to me at <a href="mailto:akidwai03@gmail.com">my mail</a> or
 
 ### Software, Frameworks, and Libraries
 ![tailwind](https://img.shields.io/badge/tailwind-navy?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-orange?style=for-the-badge&logo=svelte&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black)
 ![Numpy](https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue)
 ![pandas](https://img.shields.io/badge/pandas-blue?style=for-the-badge&logo=pandas)

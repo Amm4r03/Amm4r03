@@ -32,11 +32,11 @@ tools        git · github · gcp · jupyter
 | [natural-language-to-latex](https://github.com/Amm4r03/natural-language-to-latex) | nl math → rendered latex | python, nlp |
 | [gribbin-study-companion](https://github.com/Amm4r03/gribbin-study-companion) | ai study tool | svelte |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amm4r03&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amm4r03&layout=compact&theme=tokyonight&hide_border=true" />
 
 <div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amm4r03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Amm4r03&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amm4r03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Amm4r03&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
